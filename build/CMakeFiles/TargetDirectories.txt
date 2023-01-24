@@ -1,0 +1,4 @@
+/home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/build/CMakeFiles/ipb_arithmetic.dir
+/home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/build/CMakeFiles/main.dir
+/home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/build/CMakeFiles/edit_cache.dir
+/home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/build/CMakeFiles/rebuild_cache.dir

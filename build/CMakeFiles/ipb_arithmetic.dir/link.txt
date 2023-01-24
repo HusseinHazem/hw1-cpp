@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/results/lib/libipb_arithmetic.a CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o
+/usr/bin/ranlib /home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/results/lib/libipb_arithmetic.a

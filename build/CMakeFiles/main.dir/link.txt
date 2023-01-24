@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/src/main.cpp.o -o /home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/results/bin/main  /home/husseinhazem/Documents/modern-cpp-course/cpp-homeworks/task_2_cmake/results/lib/libipb_arithmetic.a 
